@@ -1,0 +1,57 @@
+
+------> Single Room Hostel <------
+
+Name              : viki
+Father's Name     : a
+Department        : cse
+Room Number       : A-1
+Address           : ssn
+Phone Number      : 1234567890
+Year              : 2019
+Hostel Type       : Single
+Mode of Admission : DOTE
+
+Name              : ravi
+Father's Name     : c
+Department        : civil
+Room Number       : A-2
+Address           : ssn
+Phone Number      : 234567890
+Year              : 2019
+Hostel Type       : Single
+Mode of Admission : DOTE
+
+----------------------------------
+
+------> Shared Room Hostel <------
+
+Name              : raju
+Father's Name     : q
+Department        : cse
+Room Number       : B-1
+Address           : ssn
+Phone Number      : 123456789
+Year              : 2019
+Hostel Type       : Shared
+Mode of Admission : DOTE
+
+Name              : @s¼
+Father's Name     : 
+Department        : 
+Address           : 
+Phone Number      : 
+Year              : 0
+Hostel Type       : 
+Mode of Admission : 
+
+Name              : praba
+Father's Name     : a
+Department        : cse
+Room Number       : B-1
+Address           : ssn
+Phone Number      : 0987654321
+Year              : 2019
+Hostel Type       : Shared
+Mode of Admission : DOTE
+
+----------------------------------
